@@ -1,7 +1,7 @@
 import { Link } from "react-router-dom";
 import { Avatar } from "./BlogCard";
 import logo from "../assets/logo.png";
-import { useEffect, useState } from "react";
+import { useState } from "react";
 import { DropDown } from "./DropDown";
 
 export const AppBar = ({
