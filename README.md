@@ -1,6 +1,7 @@
 ### blarge
+- Tech Stack - Cloudflare Workers, Hono, React, TypeScript, Prisma, PostgreSQL, Tailwind CSS, npm, Quill.js. 
 Blogging Website
-TODO: 
+- TODO: 
 - [ ] Recoil - cache requests, store username for AppBar display.
 - [ ] Minor Changes - click anywhere on screen to close dropdown
 - [ ] update blogs
