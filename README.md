@@ -10,3 +10,6 @@ TODO:
 - [ ] Profile information in AppBar
 - [ ] Improve landing page UI
 - [ ] Can improve overall UI
+- [ ] Publish post button decrease margin top
+- [ ] Add published date to the db schema
+- [ ] Add Catch phrase for users in the db schema
