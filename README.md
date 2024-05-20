@@ -14,3 +14,4 @@
 - [ ] Publish post button decrease margin top
 - [ ] Add published date to the db schema
 - [ ] Add Catch phrase for users in the db schema
+- [ ] Add tags to blogs (relationship between blogs and tags through prisma)
